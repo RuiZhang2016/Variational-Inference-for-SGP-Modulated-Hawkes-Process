@@ -28,7 +28,7 @@ If you find Variational Inference for Sparse Gaussian Process Modulated Hawkes P
 See demo.ipynb.
 
 # Online Demo
-An online demo is on [GoogleColab](https://colab.research.google.com/github/RuiZhang2016/Variational-Inferencce-for-SGP-Modulated-Hawkes-Process/blob/master/demo.ipynb).
+An online demo is on [GoogleColab](https://colab.research.google.com/github/RuiZhang2016/Variational-Inference-for-SGP-Modulated-Hawkes-Process/blob/master/demo.ipynb).
 
 # License
 [MIT License](https://github.com/RuiZhang2016/Variational-Inferencce-for-SGP-Modulated-Hawkes-Process/blob/master/LICENSE)
