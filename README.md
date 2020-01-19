@@ -3,15 +3,15 @@ This repo contains a demo for the AAAI-20 publication "[Variational Inference fo
 
 # Required Packages
  - numpy
- - scipy
+ - scipy==1.2.0
  - matplotlib
  - autograd==1.1.13
- - [tick](https://github.com/X-DataInitiative/tick)
+ - [tick](https://github.com/X-DataInitiative/tick)==0.5.0.0
  - numpydoc==0.7.0
  
  They be installed through pip:
 ```bash
-   $ pip3 install numpy scipy matplotlib autograd==1.1.13 tick numpydoc==0.7.0
+   $ pip3 install numpy scipy==1.2.0 matplotlib autograd==1.1.13 tick==0.5.0.0 numpydoc==0.7.0
 ```
 
 # Citation
