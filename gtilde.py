@@ -9,8 +9,8 @@ __sparse_fmt = csr_matrix
 __interp1d_kind = 'linear'
 __gtilde_subsample = 1
 
-__gtilde_pickle_fn = 'gtilde.pkl'
-__gtilde_csv_fn = 'gtilde.csv'
+__gtilde_pickle_fn = 'VBHP/gtilde.pkl'
+__gtilde_csv_fn = 'VBHP/gtilde.csv'
 
 _gtilde_table = wh.load(__gtilde_pickle_fn)
 
